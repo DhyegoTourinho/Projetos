@@ -1,0 +1,29 @@
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Minha Autoria\JogoDasCharadas\JogoDasCharadas\bin\Debug\net8.0\JogoDasCharadas.exe
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Minha Autoria\JogoDasCharadas\JogoDasCharadas\bin\Debug\net8.0\JogoDasCharadas.deps.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Minha Autoria\JogoDasCharadas\JogoDasCharadas\bin\Debug\net8.0\JogoDasCharadas.runtimeconfig.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Minha Autoria\JogoDasCharadas\JogoDasCharadas\bin\Debug\net8.0\JogoDasCharadas.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Minha Autoria\JogoDasCharadas\JogoDasCharadas\bin\Debug\net8.0\JogoDasCharadas.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Minha Autoria\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\JogoDasCharadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Minha Autoria\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\JogoDasCharadas.AssemblyInfoInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Minha Autoria\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\JogoDasCharadas.AssemblyInfo.cs
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Minha Autoria\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\JogoDasCharadas.csproj.CoreCompileInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Minha Autoria\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\JogoDasCharadas.sourcelink.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Minha Autoria\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\JogoDasCharadas.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Minha Autoria\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\refint\JogoDasCharadas.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Minha Autoria\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\JogoDasCharadas.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Minha Autoria\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\JogoDasCharadas.genruntimeconfig.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Minha Autoria\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\ref\JogoDasCharadas.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\Projetos\JogoDasCharadas\JogoDasCharadas\bin\Debug\net8.0\JogoDasCharadas.exe
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\Projetos\JogoDasCharadas\JogoDasCharadas\bin\Debug\net8.0\JogoDasCharadas.deps.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\Projetos\JogoDasCharadas\JogoDasCharadas\bin\Debug\net8.0\JogoDasCharadas.runtimeconfig.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\Projetos\JogoDasCharadas\JogoDasCharadas\bin\Debug\net8.0\JogoDasCharadas.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\Projetos\JogoDasCharadas\JogoDasCharadas\bin\Debug\net8.0\JogoDasCharadas.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\Projetos\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\JogoDasCharadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\Projetos\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\JogoDasCharadas.AssemblyInfoInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\Projetos\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\JogoDasCharadas.AssemblyInfo.cs
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\Projetos\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\JogoDasCharadas.csproj.CoreCompileInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\Projetos\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\JogoDasCharadas.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\Projetos\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\refint\JogoDasCharadas.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\Projetos\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\JogoDasCharadas.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\Projetos\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\JogoDasCharadas.genruntimeconfig.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\Projetos\JogoDasCharadas\JogoDasCharadas\obj\Debug\net8.0\ref\JogoDasCharadas.dll
